@@ -77,3 +77,6 @@ A 3-Tier application designed for delivery agents to verify and confirm shipment
 - **POST** `/api/delivery/request-otp`: Generate 4-digit OTP & send Email (2-min expiry).
 - **POST** `/api/delivery/confirm`: Verify Shipment ID + OTP.
 - **GET** `/api/delivery/history/:agentId`: Get delivery history for an agent.
+
+### Demo Video
+<video controls src="demo_video.mp4" title="Title"></video>
